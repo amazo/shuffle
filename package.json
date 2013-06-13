@@ -1,0 +1,17 @@
+{
+  "name": "shuffle",
+  "version": "0.0.0",
+  "description": "shuffle =======",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amazo/shuffle.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "gitHead": "de46ce21e30ecfecf14b3f0d0c4743e7cd38c741",
+  "readmeFilename": "README.md"
+}
